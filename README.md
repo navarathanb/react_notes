@@ -357,7 +357,9 @@ Update App to include the Form component:
 18.	export default App;
 Install uuid with:
 1.	npm i uuid --save-dev
+npm start
 
+git link https://github.com/valentinogagliardi/minimal-react-redux-webpack/tree/master/src/js
 
 
 

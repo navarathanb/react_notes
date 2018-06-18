@@ -35,7 +35,7 @@ ReactDOM.render(<NumberList  numbers={numbers} />,
                 document.getElementById('root')
 );
 
-React _ Redux
+React _ Redux https://www.valentinog.com/blog/react-redux-tutorial-beginners/
 
 Javascript, ES6, and React.
 A stateful React component is a Javascript ES6 class.
